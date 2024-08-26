@@ -4,7 +4,9 @@ Codes for simulations and the real data application in the FILTER paper.
 # For simulations:
 *simu_prediction.R: This script can generate the simulation results presented in Table 1 and Table 2 of Section 4 in the main paper. Detailed descriptions of the script's arguments are provided within the script itself.
 
-# For the real data application: in the directory 'Real_Data', there two scripts and a data.
+# For the real data application: 
+
+In the directory 'Real_Data', there two scripts and a data.
 
 *brca_tcga_prognostic-genes_tertLower_RSEM_zscore.csv: the breast cancer data from TCGA (cancer_study_id is 'brca_tcga') analyzed of Section 5 in the main paer, downloaded using the R package 'cgdsr'.
 
